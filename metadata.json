@@ -1,0 +1,5 @@
+{
+  "name": "MosqEva Robot Simulator",
+  "description": "A bio-inspired robot navigation simulator implementing the MosqEva algorithm for dynamic obstacle avoidance.",
+  "requestFramePermissions": []
+}
